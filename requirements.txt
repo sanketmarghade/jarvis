@@ -1,6 +1,5 @@
 Flask
-speechrecognition
+SpeechRecognition
 pyttsx3
 requests
-PyAudio
-gunicorn 
+PyAudio==0.2.11
