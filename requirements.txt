@@ -3,3 +3,4 @@ speechrecognition
 pyttsx3
 requests
 PyAudio
+gunicorn 
